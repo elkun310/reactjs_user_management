@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name" : "Nguyen Quoc Ha",
+    "phone" : "0389938822",
+    "role" : 0
+  },
+  {
+    "id": 2,
+    "name" : "Le Tan Truong",
+    "phone" : "038999991",
+    "role" : 1
+  },
+  {
+    "id": 3,
+    "name" : "Dinh Van Nghia",
+    "phone" : "0969991239",
+    "role" : 1
+  },
+  {
+    "id": 4,
+    "name" : "Ung Dai Ve",
+    "phone" : "089231329",
+    "role" : 2
+  },
+  {
+    "id": 5,
+    "name" : "Dinh Nhat Le",
+    "phone" : "0123312312",
+    "role" : 2
+  }
+]
